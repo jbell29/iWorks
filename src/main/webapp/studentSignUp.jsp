@@ -51,7 +51,12 @@
                         <label for="student grade"> Grade </label>
                         <input type="text" class="form-control" name="grade" id="grade" placeholder="ex: 11" required="required">
                     </div>
-
+		    
+		    <div class="form-group">
+                        <label for="student grade"> Interests </label>
+                        <input type="text" class="form-control" name="grade" id="grade" placeholder="ex: Computer Science" required="required">
+                    </div>
+		
                     <div class="form-group">
                         <label for="emailInput"> Email address </label>
                         <input type="email" class="form-control" name="emailInput" id="emailInput" aria-describedby="emailHelp" placeholder="ex: johnSmith@iWorks.com" required="required">
